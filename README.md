@@ -1,12 +1,17 @@
-# React + Vite
+The Question Bank is a MERN stack application designed to help students practice questions efficiently. It enhances time management skills and logical thinking while allowing admins to manage question content.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+✅ Student Features:
 
-Currently, two official plugins are available:
+Register and log in
+Attempt practice questions
+Track progress
+✅ Admin Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Log in to manage questions
+Add, edit, and delete questions
+✅ Additional Features:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive UI with React.js & Bootstrap
+Secure authentication with JWT
+MongoDB for efficient data storage
